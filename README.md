@@ -1,6 +1,6 @@
-# NEYMO
+# Money
 
-A kind of ATM for All Mobile-Money system (Orange money, MTN Mobile Money, etc..) !
+A kind of ATM for All Mobile-Money system (flooz, MTN Mobile Money, etc..) !
 
 The rest of the documentation/README will come as soon as i will got time lol !
 
@@ -19,4 +19,4 @@ The rest of the documentation/README will come as soon as i will got time lol !
 
 ## Author
 
-- Sanix-darker
+- LAwal ALAO
