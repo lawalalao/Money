@@ -1,0 +1,4 @@
+[neymo-config]
+SECRET_KEY=darker
+MODULE=zxms
+CODE=1234

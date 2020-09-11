@@ -1,0 +1,9 @@
+.history
+.idea
+.vscode
+*__pycache__
+*.pyc
+*static
+config.txt
+venv
+out.txt
